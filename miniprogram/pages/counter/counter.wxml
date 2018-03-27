@@ -10,13 +10,15 @@
 
    <view><text class='name'>交强价格（元）</text> </view>
    <view style='background:red;'><input class='myinput' id='jqp' type='text' placeholder='请输入交强险金额' style='width:50%,'>
-   
+
    </input></view>
 
   </view>
   <view id='ccf' class='secview'>
    <text class='name'>车船价格（元）</text> 
+
   </view>
+  
   <view id='syf' class='secview'>
    <text class='name'>商业价格（元）</text> 
   </view>
