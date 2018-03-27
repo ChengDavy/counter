@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/counter/counter",
+    "pages/index/index"
+  ],
+  "plugins": {
+    "myPlugin": {
+      "version": "dev",
+      "provider": "wx5998498174e7d448"
+    }
+  }
+}
